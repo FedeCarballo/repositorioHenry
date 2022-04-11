@@ -29,6 +29,9 @@ var c = function(a, b, c) {
 c(8,9,10);
 console.log(b);
 console.log(x);
+
+
+
 ```
 
 ```javascript
@@ -60,6 +63,10 @@ console.log(instructor);
 console.log(instructor);
 ```
 ```javascript
+
+
+
+
 var instructor = "Tony";
 let pm = "Franco";
 if (true) {
@@ -71,6 +78,9 @@ if (true) {
 console.log(instructor);
 console.log(pm);
 ```
+
+
+
 ### Coerción de Datos
 
 ¿Cuál crees que será el resultado de la ejecución de estas operaciones?:
